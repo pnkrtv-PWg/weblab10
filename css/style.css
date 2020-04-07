@@ -53,3 +53,44 @@ header{
     font-size: 17px;
     padding-bottom: 100px;
 }
+
+.service-box-title{
+    margin: 0 auto;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: #555555;
+}
+
+.service-box-desrciption{
+    font-family: 'Roboto';
+    color: #555555;
+    padding-bottom: 100px;
+}
+
+.about-us{
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+.about-title{
+    padding-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #555555;
+    margin: 0 auto;
+}
+
+.about-subtitle{
+    font-family: 'Roboto';
+    color: #555555;
+    font-size: 17px;
+    padding-bottom: 50px;
+}
+
+.about-columns{
+    font-family: 'Roboto';
+    color: #555555;
+    text-align: justify;
+    padding-bottom: 50px;
+}
