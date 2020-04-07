@@ -1,5 +1,5 @@
 header{
-    background-image: url("home.png");
+    background-image: url(../image/home.png);
     background-repeat: no-repeat;
     height: 760px;
 }
@@ -33,4 +33,23 @@ header{
 .navmenu{
     padding-top: 20px;
     padding-left: 550px;
+}
+
+.services{
+    text-align: center;
+}
+
+.serv-title{
+    padding-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #555555;
+    margin: 0 auto;
+}
+
+.serv-subtitle{
+    font-family: 'Roboto';
+    color: #555555;
+    font-size: 17px;
+    padding-bottom: 100px;
 }
