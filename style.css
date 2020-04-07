@@ -1,0 +1,36 @@
+header{
+    background-image: url("home.png");
+    background-repeat: no-repeat;
+    height: 760px;
+}
+
+.logo{
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15pt;
+    padding-top: 20px;
+}
+
+.context{
+    color: white;
+    font-family: 'Roboto';
+    font-size: 30pt;
+}
+
+.sub-context{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.head-content{
+    text-align: center;
+    padding-top: 270px;
+}
+
+.cont-button{
+    padding-top: 70px;
+}
+.navmenu{
+    padding-top: 20px;
+    padding-left: 550px;
+}
