@@ -251,3 +251,98 @@ header{
     }
 }
 
+.hbut:hover{
+    color: #c0301c;
+}
+
+.works{
+    padding-bottom: 100px;
+}
+
+.calling-us{
+    background-image: url(../image/callus.png);
+    height: 300px;
+}
+.call-us{
+    text-align:center;
+    color:white;
+    padding-top: 100px;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+.call-button{
+    padding-top: 50px;
+}
+.contact-us{
+    padding-top: 100px;
+    text-align: center;
+}
+
+.contact-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #555555;
+    margin: 0 auto;
+}
+
+.contact-subtitle{
+    font-family: 'Roboto';
+    color: #555555;
+    font-size: 17px;
+    padding-bottom: 50px;
+}
+
+.butlabel{
+    padding-left: 25px;
+    padding-top: 6px;
+    font-family: 'Roboto';
+}
+.butlabel span{
+    color: #c0301c;
+}
+
+.forms{
+    padding-bottom: 100px;
+}
+
+.but-text{
+    padding-left: 5px;
+}
+
+.rtext{
+    text-align:left;
+}
+
+.ricon{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #555555;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.rtext{
+    font-family: 'Roboto';
+    color: #555555;
+    font-size: 13px;
+}
+
+.foot-text{
+    color: white;
+    font-family: 'Roboto';
+}
+
+.clan-foot{
+    background-color: #c0301c;
+    height: 250px;
+}
+
+.soc-icon{
+    padding-left: 47%;
+    padding-bottom: 15px;
+}
+
+.other-foot{
+    text-align: center;
+    padding-top: 100px;
+}
