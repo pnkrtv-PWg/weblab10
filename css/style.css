@@ -9,7 +9,7 @@ header{
     font-family: 'Montserrat', sans-serif;
     font-size: 15pt;
     padding-top: 20px;
-
+    padding-right: 550px;
 }
 
 .context{
@@ -35,7 +35,7 @@ header{
     padding-top: 20px;
     justify-items: right;
     justify-self: right;
-    padding-left: 550px;
+    /*padding-left: 550px;*/
 }
 
 .services{
