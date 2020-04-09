@@ -123,9 +123,6 @@ header{
     margin: 0 auto;
 }
 
-.filter-menu{
-    max-width: max-content;
-}
 @media (min-width: 768px) and (max-width: 991px) {
     
     /* Show 4th slide on md if col-md-4*/
