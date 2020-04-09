@@ -9,7 +9,6 @@ header{
     font-family: 'Montserrat', sans-serif;
     font-size: 15pt;
     padding-top: 20px;
-    padding-right: 550px;
 }
 
 .context{
@@ -33,9 +32,7 @@ header{
 }
 .navmenu{
     padding-top: 20px;
-    justify-items: right;
-    justify-self: right;
-    /*padding-left: 550px;*/
+
 }
 
 .services{
@@ -126,7 +123,11 @@ header{
     margin: 0 auto;
 }
 
+.filter-menu{
+    max-width: max-content;
+}
 @media (min-width: 768px) and (max-width: 991px) {
+    
     /* Show 4th slide on md if col-md-4*/
     .carousel-inner .active.col-md-4.carousel-item + .carousel-item + .carousel-item + .carousel-item {
         position: absolute;
@@ -138,6 +139,7 @@ header{
     }
 }
 @media (min-width: 576px) and (max-width: 768px) {
+
     /* Show 3rd slide on sm if col-sm-6*/
     .carousel-inner .active.col-sm-6.carousel-item + .carousel-item + .carousel-item {
         position: absolute;
@@ -149,6 +151,7 @@ header{
     }
 }
 @media (min-width: 576px) {
+
     .carousel-item {
         margin-right: 0;
     }
@@ -194,6 +197,7 @@ header{
 }
 /* MD */
 @media (min-width: 768px) {
+
     /* show 3rd of 3 item slide */
     .carousel-inner .active + .carousel-item + .carousel-item {
         display: block;
@@ -222,6 +226,7 @@ header{
 }
 /* LG */
 @media (min-width: 991px) {
+
     /* show 4th item */
     .carousel-inner .active + .carousel-item + .carousel-item + .carousel-item {
         display: block;
